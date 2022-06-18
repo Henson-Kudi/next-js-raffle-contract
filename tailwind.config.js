@@ -5,7 +5,7 @@ module.exports = {
         extend: {},
         colors: {
             mine: "rgba(210,210,210,0.2)",
-            mine2: "red",
+            mine2: "#66989A",
         },
     },
     plugins: [],
